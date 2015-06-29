@@ -67,8 +67,16 @@ ortográficos, ejemplos, etc., pueden añadirse a través de Pull Requests de Gi
 
 ------------------------------------------------------------------------------
 
+## ¿Qué es un "Pipeline" en la ciencias de la computación?
 
 
+Pipeline es un término inglés que puede traducirse como “tubería”. Aunque no forma parte del diccionario de la Real Academia Española (RAE), cada vez es más utilizada en computación e informática. Desde hace varias décadas se comenzó a utilizar para hacer referencia a un tipo de arquitectura para computadores. Estas tuberías virtuales se crean para segmentar los datos y, de este modo, incrementar el rendimiento de un sistema digital. Segmentar los cálculos, por lo tanto, permite mejorar la frecuencia de trabajo. Este tipo de flujo de datos implica que *la salida de una fase es una entrada de otra*. Esta es la frase clave para entender el procesamiento de datos, información y trabajos en un pipeline. 
+
+En nuestro caso aplicaremos el concepto de pipeline a la minería de datos. Con esto me refiero a aplicar una serie de procesamientos, i.e. flitrados, depuraciones, cálculos, agrupaciones, a los datos que deseamos analizar. La fuente de los datos puede ser muy distinta, y es importante entender de donde vienen y su estructura antes de pensar en aplicar este pipeline. 
+
+## Lo básico -> Tener buenas preguntas
+
+Un proceso de minería de datos es inútil si no sabemos para qué lo estamos haciendo. 
 
 
 
