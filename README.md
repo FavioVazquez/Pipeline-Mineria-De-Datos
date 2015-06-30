@@ -99,7 +99,33 @@ no es de nuestra iniciativa sino de la de una empresa o un tercero, de igual
 manera es importante entender sus necesidades e intereses para poder ubicarnos
 y poder tener una meta que alcanzar con el proceso. Muchas veces habrán muchas 
 preguntas interesantes a las cuales deseamos darles respuesta, esto aunque es
-muy bueno, puede llevar al equipo de desarrollo 
+muy bueno, puede llevar al equipo de desarrollo a considerar aspectos que tal
+vez no conduzcan por buenos caminos a la investigación, por lo tanto también es
+importante poder discernir que preguntas son las principales y las que deben 
+guiar el proceso de desarrollo de la minería de datos. 
+
+Ejemplos de preguntas interesantes en proyectos de minería de datos - cabe 
+destacar que las preguntas también deben considerar algunos asepectos sobre 
+la estructura de los datos de entrada, la forma en que queremos los datos 
+de salida, y claro todo lo referente a los diferentes objetivos del proyecto, 
+estas pueden estar dirigidas hacia los intereses de un cliente que nos contrate,
+o intereses propios sobre unos datos que deseamos analizar:
+
+1. Preguntas genéricas:
+
+- ¿Qué estructura tienen los datos de entrada?
+- ¿Qué quiero obtener de los resultados de esta minería de datos?
+- ¿Por qué me importa hacer esta minería de datos?
+- ¿Qué beneficios puedo obtener al hacer esta minería de datos?
+- ¿Tengo los datos suficientes para poder darle respuesta a mis preguntas?
+- ¿Puedo obtener otros datos aparte de los que tengo?
+- ¿Existe una descripción de los datos, campos, tablas, cabeceras?
+- ¿Existen otros artículos, proyectos o trabajos que hayan realizado algo 
+parecido a lo que quiero? En caso de que sí, ¿qué metodologías utilizaron?, 
+¿qué resultados obtuvieron? ¿qué análisis y conclusiones obtivieron de 
+sus resultados? ¿están publicados los datos que utilizaron, y puedo acceder
+a ellos?
+- 
 
 
 
