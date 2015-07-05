@@ -125,7 +125,3 @@ parecido a lo que quiero? En caso de que sí, ¿qué metodologías utilizaron?,
 ¿qué resultados obtuvieron? ¿qué análisis y conclusiones obtivieron de 
 sus resultados? ¿están publicados los datos que utilizaron, y puedo acceder
 a ellos?
-- 
-
-
-
